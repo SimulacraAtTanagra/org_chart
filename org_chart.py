@@ -6,7 +6,7 @@ Created on Mon Feb 22 19:00:47 2021
 """
 
 from pydot import Dot, Node, Edge
-from admin import newest,rehead,colclean
+from src.admin import newest,rehead,colclean
 import pandas as pd
 
 
